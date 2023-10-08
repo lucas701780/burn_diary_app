@@ -650,6 +650,7 @@ file:///Users/louis/.pub-cache/hosted/pub.dev/collection-1.17.2/lib/src/union_se
 file:///Users/louis/.pub-cache/hosted/pub.dev/collection-1.17.2/lib/src/unmodifiable_wrappers.dart
 file:///Users/louis/.pub-cache/hosted/pub.dev/collection-1.17.2/lib/src/utils.dart
 file:///Users/louis/.pub-cache/hosted/pub.dev/collection-1.17.2/lib/src/wrappers.dart
+file:///Users/louis/.pub-cache/hosted/pub.dev/js-0.6.7/lib/js.dart
 file:///Users/louis/.pub-cache/hosted/pub.dev/material_color_utilities-0.5.0/lib/blend/blend.dart
 file:///Users/louis/.pub-cache/hosted/pub.dev/material_color_utilities-0.5.0/lib/contrast/contrast.dart
 file:///Users/louis/.pub-cache/hosted/pub.dev/material_color_utilities-0.5.0/lib/dislike/dislike_analyzer.dart
@@ -686,6 +687,10 @@ file:///Users/louis/.pub-cache/hosted/pub.dev/material_color_utilities-0.5.0/lib
 file:///Users/louis/.pub-cache/hosted/pub.dev/material_color_utilities-0.5.0/lib/utils/math_utils.dart
 file:///Users/louis/.pub-cache/hosted/pub.dev/meta-1.9.1/lib/meta.dart
 file:///Users/louis/.pub-cache/hosted/pub.dev/meta-1.9.1/lib/meta_meta.dart
+file:///Users/louis/.pub-cache/hosted/pub.dev/safe_area_insets-0.1.2/lib/safe_area_insets.dart
+file:///Users/louis/.pub-cache/hosted/pub.dev/safe_area_insets-0.1.2/lib/src/core.dart
+file:///Users/louis/.pub-cache/hosted/pub.dev/safe_area_insets-0.1.2/lib/src/js_ext.dart
+file:///Users/louis/.pub-cache/hosted/pub.dev/safe_area_insets-0.1.2/lib/src/web_safe_area_insets.dart
 file:///Users/louis/.pub-cache/hosted/pub.dev/vector_math-2.1.4/lib/src/vector_math_64/aabb2.dart
 file:///Users/louis/.pub-cache/hosted/pub.dev/vector_math-2.1.4/lib/src/vector_math_64/aabb3.dart
 file:///Users/louis/.pub-cache/hosted/pub.dev/vector_math-2.1.4/lib/src/vector_math_64/colors.dart

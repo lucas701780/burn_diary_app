@@ -42,6 +42,10 @@ flutter_lints
 2.19
 file:///Users/louis/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3/
 file:///Users/louis/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3/lib/
+js
+2.19
+file:///Users/louis/.pub-cache/hosted/pub.dev/js-0.6.7/
+file:///Users/louis/.pub-cache/hosted/pub.dev/js-0.6.7/lib/
 lints
 3.0
 file:///Users/louis/.pub-cache/hosted/pub.dev/lints-2.1.1/
@@ -62,6 +66,10 @@ path
 2.12
 file:///Users/louis/.pub-cache/hosted/pub.dev/path-1.8.3/
 file:///Users/louis/.pub-cache/hosted/pub.dev/path-1.8.3/lib/
+safe_area_insets
+2.17
+file:///Users/louis/.pub-cache/hosted/pub.dev/safe_area_insets-0.1.2/
+file:///Users/louis/.pub-cache/hosted/pub.dev/safe_area_insets-0.1.2/lib/
 source_span
 2.18
 file:///Users/louis/.pub-cache/hosted/pub.dev/source_span-1.10.0/
